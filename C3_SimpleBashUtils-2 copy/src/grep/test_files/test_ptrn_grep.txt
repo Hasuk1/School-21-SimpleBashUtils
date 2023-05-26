@@ -1,4 +1,0 @@
-test
-CLEAN
-clean
-^#include
